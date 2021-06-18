@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 - Run the prediction:
 ```
-python .\prediction.py 
+python prediction.py 
 ```
 
 ## Results
