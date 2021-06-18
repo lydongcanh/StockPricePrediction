@@ -1,4 +1,4 @@
-# STOCK PRICES PREDICTION USING MACHINE LEARNING
+# Stock prices prediction using machine learning
 
 ## How to run
 - Install required modules if needed.
