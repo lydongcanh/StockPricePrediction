@@ -1,0 +1,5 @@
+Keras
+Tensorflow
+Pandas
+Scikit-Learn
+Numpy

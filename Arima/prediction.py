@@ -22,7 +22,7 @@ for time_point in range(N_test_observations):
 
 plt.plot(model_predictions, color="blue", label="Predicted Prices")
 plt.plot(test_data, color="red", label="Real Prices")
-plt.title("Masan Stock Prices Prediction")
+plt.title("Masan Stock Prices Prediction Using Arima Model")
 plt.xlabel("Time")
 plt.ylabel("Prices")
 plt.legend()
