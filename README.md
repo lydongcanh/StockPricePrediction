@@ -14,7 +14,7 @@ python prediction.py
 ## Results
 
 - [Arima](Arima)
-![Alt Masan Stock Prices Prediction Using Arima Model](Results/MSN_Arima.png "Masan Stock Prices Prediction Using Arima Model")
+![Alt Masan Stock Prices Prediction Using Arima Model](Results/MSN_Arima.png? "Masan Stock Prices Prediction Using Arima Model")
 
 - [LSTM](LSTM)
-![Alt Masan Stock Prices Prediction Using LSTM Model](Results/MSN_LSTM.png "Masan Stock Prices Prediction Using LSTM Model")
+![Alt Masan Stock Prices Prediction Using LSTM Model](Results/MSN_LSTM.png? "Masan Stock Prices Prediction Using LSTM Model")
