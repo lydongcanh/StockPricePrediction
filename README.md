@@ -1,12 +1,12 @@
 # Stock prices prediction using machine learning
 
 ## How to run
-- Install required modules if needed.
+- Install required modules if needed:
 ```
 pip install -r requirements.txt
 ```
 
-- Run the prediction
+- Run the prediction:
 ```
 python .\prediction.py 
 ```
