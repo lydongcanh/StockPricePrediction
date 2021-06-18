@@ -81,7 +81,7 @@ predicted_stock_price = sc.inverse_transform(predicted_stock_price)
 
 # Visualising the results
 plt.plot(predicted_stock_price, color = "blue", label = "Predicted Prices")
-plt.plot(dataset_test.values, color = "red", label = "Real Prices")
+plt.plot(test_file["Close"].values, color = "red", label = "Real Prices")
 plt.title("Masan Stock Prices Prediction Using LSTM Model")
 plt.xlabel("Time")
 plt.ylabel("Prices")
